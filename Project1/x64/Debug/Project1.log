@@ -1,0 +1,105 @@
+﻿  main.cpp
+D:\University\Semester 3\Data st\project\Project1\CSVReader.h(129,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\CSVReader.h(140,17): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\CSVReader.h(149,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Transport.h(224,34): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Facilities.h(49,21): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Facilities.h(72,25): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Facilities.h(79,21): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Facilities.h(270,17): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Facilities.h(406,17): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(35,46): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(172,17): warning C4566: character represented by universal-character-name '\u250C' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(172,17): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(172,17): warning C4566: character represented by universal-character-name '\u252C' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(172,17): warning C4566: character represented by universal-character-name '\u2510' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(173,17): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(174,17): warning C4566: character represented by universal-character-name '\u251C' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(174,17): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(174,17): warning C4566: character represented by universal-character-name '\u253C' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(174,17): warning C4566: character represented by universal-character-name '\u2524' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(177,21): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(177,42): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(180,21): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(186,21): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(192,21): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(196,21): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(199,17): warning C4566: character represented by universal-character-name '\u2514' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(199,17): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(199,17): warning C4566: character represented by universal-character-name '\u2534' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(199,17): warning C4566: character represented by universal-character-name '\u2518' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(229,25): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(235,17): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(268,29): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(274,29): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\Passenger.h(289,17): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\University\Semester 3\Data st\project\Project1\main.cpp(533,29): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  Project1.vcxproj -> D:\University\Semester 3\Data st\project\Project1\x64\Debug\Project1.exe
